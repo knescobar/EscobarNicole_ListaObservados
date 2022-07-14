@@ -13,7 +13,6 @@ public class NarcotraficanteService {
 
     private NarcotraficanteRepository narcotraficanteRepository;
 
-
     public NarcotraficanteService(NarcotraficanteRepository narcotraficanteRepository) {
         this.narcotraficanteRepository = narcotraficanteRepository;
     }
