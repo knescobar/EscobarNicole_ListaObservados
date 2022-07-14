@@ -1,4 +1,4 @@
-package ec.edu.espe.arquitectura.corebanquito.exception;
+package ec.edu.espe.arquitectura.listaobservados.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
